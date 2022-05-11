@@ -27,7 +27,8 @@ Feel free to extend the list of examples and post a PR.
 ```python
 import interfaces.informal as ii
 import interfaces.formal as iform
-import interfaces.formal as ifun
+import interfaces.functional as ifun
+import interfaces.protocol as ip
 ```
 First, try to initialize correct object:
 ```python
